@@ -5,4 +5,4 @@
 
 ### Автор
 **Владимир Суетин** :arrow_right: [Ссылка на профиль GitHub](https://github.com/suetin-vladimir)  
-**Ссылка на проект** :arrow_right: [MESTO](https://suetin-vladimir.github.io/robotic-toys/)
+**Ссылка на проект** :arrow_right: [robotic-toys](https://suetin-vladimir.github.io/robotic-toys/)
